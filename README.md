@@ -16,3 +16,8 @@
 6. Проведена проверка отказоустойчивости путем ручного удаления ВМ из группы.
 
 ### Выполнение и проверка
+<p align="center"> <img src="S/S1.png" width="900"/> <br> <em>Рисунок 1 - Изображение avatar.jpg, успешно загруженное в бакет Object Storage</em> </p>
+
+<p align="center"> <img src="S/S2.png" width="900"/> <br> <em>Рисунок 2 - Веб-страница, отдаваемая Network Load Balancer, с корректно подгружаемым изображением из Object Storage</em> </p>
+
+<p align="center"> <img src="S/S3.png" width="900"/> <br> <em>Рисунок 3 - Целевая группа (Target Group) балансировщика: все 3 виртуальные машины имеют статус Healthy</em> </p>
