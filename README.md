@@ -20,4 +20,4 @@
 
 <p align="center"> <img src="S/S2.png" width="900"/> <br> <em>Рисунок 2 - Веб-страница, отдаваемая Network Load Balancer, с корректно подгружаемым изображением из Object Storage</em> </p>
 
-<p align="center"> <img src="S/S3.png" width="900"/> <br> <em>Рисунок 3 - Целевая группа (Target Group) балансировщика: все 3 виртуальные машины имеют статус Healthy</em> </p>
+<p align="center"> <img src="S/S3.png" width="500"/> <br> <em>Рисунок 3 - Целевая группа (Target Group) балансировщика: все 3 виртуальные машины имеют статус Healthy</em> </p>
